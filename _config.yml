@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: arsterc's blog # the main title
 
-tagline: database, system and performance tuning # it will display as the sub-title
+tagline: database, system and performance tuning  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, perconal writing.
