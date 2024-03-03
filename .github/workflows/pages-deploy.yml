@@ -2,8 +2,7 @@ name: "Build and Deploy"
 on:
   push:
     branches:
-      - main
-      - master
+      - ver-6.2.1
     paths-ignore:
       - .gitignore
       - README.md
